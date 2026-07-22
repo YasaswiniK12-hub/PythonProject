@@ -1,14 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="ec4ffd07-e26d-4e64-b701-aae0231a8163" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/PythonProject.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/main.py" afterDir="false" />
+    <list default="true" id="ec4ffd07-e26d-4e64-b701-aae0231a8163" name="Changes" comment="Dictionaries: {}">
+      <change afterPath="$PROJECT_DIR$/2D&amp;Nested_Loops.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Exponent_Function.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Translator.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/for_loop.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -25,9 +23,21 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "associatedIndex": 6
-}]]></component>
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;YasaswiniK12-hub&quot;
+  }
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/YasaswiniK12-hub/PythonProject.git&quot;,
+    &quot;accountId&quot;: &quot;1a9fa489-3ef8-496a-b8d8-2ec0fcf952e5&quot;
+  }
+}</component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 6
+}</component>
   <component name="ProjectId" id="3Gi3sCjhtcpKXk5Gy4G2uhcQ5L9" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
@@ -36,9 +46,28 @@
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
     "ModuleVcsDetector.initialDetectionPerformed": "true",
+    "Python.2D&Nested_Loops.executor": "Run",
+    "Python.Basic_Calculator.executor": "Run",
+    "Python.Better_Calculator.executor": "Run",
+    "Python.Dictionaries.executor": "Run",
+    "Python.Exponent_Function.executor": "Run",
+    "Python.Functions.executor": "Run",
+    "Python.Getting_Input_From_Users.executor": "Run",
+    "Python.Guess_Game.executor": "Run",
+    "Python.If_Comparisons.executor": "Run",
+    "Python.If_Statements.executor": "Run",
+    "Python.List.executor": "Run",
+    "Python.Mad_Libs_Game.executor": "Run",
+    "Python.Return.executor": "Run",
+    "Python.Translator.executor": "Run",
+    "Python.Tuples.executor": "Run",
+    "Python.While_loop.executor": "Run",
+    "Python.app.executor": "Run",
+    "Python.for_loop.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252": "true",
     "RunOnceActivity.git.unshallow": "true",
-    "git-widget-placeholder": "master"
+    "git-widget-placeholder": "main"
   }
 }]]></component>
   <component name="SharedIndexes">
@@ -56,6 +85,127 @@
       <option name="presentableId" value="Default" />
       <updated>1784440768377</updated>
     </task>
+    <task id="LOCAL-00001" summary="Initial commit with main and app scripts">
+      <option name="closed" value="true" />
+      <created>1784441249312</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1784441249313</updated>
+    </task>
+    <task id="LOCAL-00002" summary="Day 1: Learnt about variables data type . Worked with strings.">
+      <option name="closed" value="true" />
+      <created>1784530994954</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1784530994954</updated>
+    </task>
+    <task id="LOCAL-00003" summary="&#10;Working with Numbers">
+      <option name="closed" value="true" />
+      <created>1784532497903</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1784532497904</updated>
+    </task>
+    <task id="LOCAL-00004" summary="&#10;Getting Input From Users">
+      <option name="closed" value="true" />
+      <created>1784533501764</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1784533501764</updated>
+    </task>
+    <task id="LOCAL-00005" summary="&#10;I built a basic calculator.">
+      <option name="closed" value="true" />
+      <created>1784548102916</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1784548102916</updated>
+    </task>
+    <task id="LOCAL-00006" summary="&#10;Understood about List. Basic functions of Lists.">
+      <option name="closed" value="true" />
+      <created>1784548131210</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1784548131210</updated>
+    </task>
+    <task id="LOCAL-00007" summary="Mad libs Games this is a fun game where I've taken input from the user and built this like Mad libs game.">
+      <option name="closed" value="true" />
+      <created>1784548198610</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1784548198610</updated>
+    </task>
+    <task id="LOCAL-00008" summary="Basic Idea about if statment code">
+      <option name="closed" value="true" />
+      <created>1784657439889</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1784657439889</updated>
+    </task>
+    <task id="LOCAL-00009" summary="Fundamentals of if, else elif.">
+      <option name="closed" value="true" />
+      <created>1784703506272</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1784703506273</updated>
+    </task>
+    <task id="LOCAL-00010" summary="Using comparisons in if statements.">
+      <option name="closed" value="true" />
+      <created>1784704622433</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1784704622433</updated>
+    </task>
+    <task id="LOCAL-00011" summary="This calculator performs: +,-,*,/,%.">
+      <option name="closed" value="true" />
+      <created>1784704654391</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1784704654391</updated>
+    </task>
+    <task id="LOCAL-00012" summary="Learnt about how to use and or not in if statements.">
+      <option name="closed" value="true" />
+      <created>1784704702785</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1784704702785</updated>
+    </task>
+    <task id="LOCAL-00013" summary="Learnt syntax of loops.">
+      <option name="closed" value="true" />
+      <created>1784740412960</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1784740412960</updated>
+    </task>
+    <task id="LOCAL-00014" summary="Guess Game this code comprises of while loop if statements.">
+      <option name="closed" value="true" />
+      <created>1784741804369</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1784741804369</updated>
+    </task>
+    <task id="LOCAL-00015" summary="Dictionaries: {}">
+      <option name="closed" value="true" />
+      <created>1784741836757</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1784741836757</updated>
+    </task>
+    <option name="localTasksCounter" value="16" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -80,6 +230,24 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Initial commit with main and app scripts" />
+    <MESSAGE value="Day 1: Learnt about variables data type . Worked with strings." />
+    <MESSAGE value="&#10;Working with Numbers" />
+    <MESSAGE value="&#10;Getting Input From Users" />
+    <MESSAGE value="&#10;I built a basic calculator." />
+    <MESSAGE value="&#10;Understood about List. Basic functions of Lists." />
+    <MESSAGE value="Mad libs Games this is a fun game where I've taken input from the user and built this like Mad libs game." />
+    <MESSAGE value="Basic Idea about if statment code" />
+    <MESSAGE value="Fundamentals of if, else elif." />
+    <MESSAGE value="Using comparisons in if statements." />
+    <MESSAGE value="This calculator performs: +,-,*,/,%." />
+    <MESSAGE value="Learnt about how to use and or not in if statements." />
+    <MESSAGE value="Learnt syntax of loops." />
+    <MESSAGE value="Guess Game this code comprises of while loop if statements." />
+    <MESSAGE value="Dictionaries: {}" />
+    <option name="LAST_COMMIT_MESSAGE" value="Dictionaries: {}" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
