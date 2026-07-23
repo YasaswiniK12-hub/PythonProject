@@ -13,3 +13,4 @@ rjbfbcjnmaerf
 mnvb cmnadfj
 nmced
 '''
+# you can comment a line of code by just keeping # in the beginning of the line
