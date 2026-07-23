@@ -6,5 +6,5 @@ employee_file.write("\nFATIMA") # appends at the last
 # \n next line appending
 employee_file=open("employees1.txt","w")
 employee_file.close()
-# so yeah "a" appeneds it at the end . "w" overrides the whole file and just writes what you give
-# "w" yoiu can create a new file
+# so yeah "a" appends it at the end . "w" overrides the whole file and just writes what you give
+# "w" you can create a new file
