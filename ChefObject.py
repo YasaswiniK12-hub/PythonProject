@@ -5,6 +5,7 @@ myChineseChef = Chinese_Chef()
 myChineseChef.make_fried_rice()
 myChineseChef.make_salad()
 myChineseChef.make_chicken()
+myChineseChef.make_special_dish()
 
 # This is the proper implementation of the concept INHERITANCE.
 # so when you want to inherit this is what you do .
