@@ -1,5 +1,5 @@
 from Student import Student
-# see what I have learnt is from the Student file take Student class
+# see what I have learnt is, from the Student file take Student class
 student1=Student("Ruskin","Math",4.2,False)
 student2=Student("James","Physics",3.9,True)
 print(student1.name)
