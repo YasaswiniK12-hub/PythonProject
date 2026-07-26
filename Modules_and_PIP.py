@@ -9,3 +9,4 @@ print(useful_tools.roll_dice(10))
 # pip is a standard package manager for the python that allows install, update and manage additional libraries and dependencies that are not included in the standard python library
 
 
+# module_name.function
